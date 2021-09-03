@@ -26,8 +26,8 @@ I II V1 V2 V3 V4 V5 V6
 24 33 10 58 15 11 21 8
 ...
 ```
-![image](https://github.com/JagerLee/ECG-Classification/data/0.png)
-![image](https://github.com/JagerLee/ECG-Classification/data/1.png)
+![image](https://github.com/JagerLee/ECG-Classification/blob/main/data/0.png)
+![image](https://github.com/JagerLee/ECG-Classification/blob/main/data/1.png)
 
 异常事件标签  data/source_data/hf_round2_arrythmia.txt
 ```
