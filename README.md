@@ -134,10 +134,3 @@ optional arguments:
   -i INPUT_PATH, --input INPUT_PATH
                         Input file or dictionary path of predict.
 ```
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-
-=======
->>>>>>> ecd69b11fa612ae29ffde57042e25afe8b8cf078
->>>>>>> dcdbc0b (update)
